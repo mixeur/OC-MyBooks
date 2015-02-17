@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11.02.2015, 02:46:20
+    Author     : Brice
+*/
+.articleTitle:hover, .articleTitle:focus {
+    text-decoration: none;
+}
+body {
+    padding-top: 40px;
+}
+.footer {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    text-align: center;
+}
+.adminTable {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
